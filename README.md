@@ -41,7 +41,7 @@ I also love challenging myself in various ways. 🌱 <br>
 
 <p align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=HeeJohn&show_icons=true&theme=dark&title_color=5E8941&text_color=2D421F&icon_color=5E8941&bg_color=DBDBDB" />
-  <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeeJohn&layout=compact&theme=dark&title_color=5E8941&text_color=2D421F&bg_color=DBDBDB" />
+  <img width="343" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeeJohn&layout=compact&theme=dark&title_color=5E8941&text_color=2D421F&bg_color=DBDBDB" />
 </p>
 
 
