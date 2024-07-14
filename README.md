@@ -10,7 +10,7 @@ I also love challenging myself in various ways. 🌱 <br>
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [TrueEchoProject](https://github.com/TrueEchoProject/TrueEcho_Main)
+- 🔭 The project I’m currently working on [TrueEchoProject](https://github.com/TrueEchoProject/TrueEcho_Main) 
 - 🌱 I’m currently learning Java and Spring.
 - 👯 I’m looking to collaborate on innovative web and mobile app projects
 - 💬 Ask me about Java, Dart, and C
