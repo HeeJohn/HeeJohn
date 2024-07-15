@@ -1,4 +1,5 @@
-# 👋HeeJohn's Github🤝
+# 👋HeeJohn's Github🤝 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeeJohn&count_bg=%23DBDBDB&title_bg=%23DBDBDB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/HeeJohn)
+
 
 ![github-header-image](https://github.com/user-attachments/assets/32fe2e65-eec2-4e0e-b4de-fe8b3856f91f)
 
