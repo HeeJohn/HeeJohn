@@ -36,7 +36,7 @@ I also love challenging myself in various ways. 🌱 <br>
 - **Database**: 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeeJohn&count_bg=%23DBDBDB&title_bg=%23DBDBDB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/HeeJohn)
 
 <p align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=HeeJohn&show_icons=true&theme=dark&title_color=5E8941&text_color=2D421F&icon_color=5E8941&bg_color=DBDBDB" />
@@ -55,4 +55,4 @@ I also love challenging myself in various ways. 🌱 <br>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huijun-seo-2081ba29b/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gjshj366@gmail.com)
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeeJohn&count_bg=%23DBDBDB&title_bg=%23DBDBDB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/HeeJohn)
+
