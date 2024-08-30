@@ -1,5 +1,3 @@
-# 👋HeeJohn's Github🤝 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeeJohn&count_bg=%23DBDBDB&title_bg=%23DBDBDB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/HeeJohn)
-
 
 ![github-header-image](https://github.com/user-attachments/assets/32fe2e65-eec2-4e0e-b4de-fe8b3856f91f)
 
@@ -56,3 +54,5 @@ I also love challenging myself in various ways. 🌱 <br>
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huijun-seo-2081ba29b/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gjshj366@gmail.com)
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeeJohn&count_bg=%23DBDBDB&title_bg=%23DBDBDB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/HeeJohn)
