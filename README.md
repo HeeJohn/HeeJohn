@@ -1,8 +1,8 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/32fe2e65-eec2-4e0e-b4de-fe8b3856f91f)
 
-I'm a passionate software developer, always eager to learn and share. 👥 <br> I embrace the process and find joy in every step of the journey. 📈 <br>
-I also love challenging myself in various ways. 🌱 <br>
+  I'm a passionate software developer, always eager to learn and share. 👥 <br> I embrace the process and find joy in every step of the journey. 📈 <br>
+  I also love challenging myself in various ways. 🌱 <br>
 
 ### *Looking forward to learning many things from you!*
 
