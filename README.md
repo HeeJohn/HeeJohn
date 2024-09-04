@@ -50,8 +50,8 @@
 
 ## 🌟 Recent 3 Projects
 
-1. [TrueEchoProject](https://github.com/TrueEchoProject/TrueEcho_Main) - A Social Networking that faciliatie to be a true-self using Java & Spring.
-2. [Now, here](https://github.com/now-here-5/Now-Here) - A service that conducts random matching of people on an event-by-event basis using Java & Spring & OCI
+1. [Now, here](https://github.com/now-here-5/Now-Here) - A service that conducts random matching of people on an event-by-event basis using Java & Spring & OCI 
+2. [TrueEchoProject](https://github.com/TrueEchoProject/TrueEcho_Main) - A Social Networking that faciliatie to be a true-self using Java & Spring.
 3. [book_store](https://github.com/HeeJohn/book_store) - A simple second-hand textbook trade project using Dart and Flutter.
 
 ## 🌐 Connect with Me
