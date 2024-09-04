@@ -2,14 +2,18 @@
 ![github-header-image](https://github.com/user-attachments/assets/32fe2e65-eec2-4e0e-b4de-fe8b3856f91f)
 
   I'm a passionate software developer, always eager to learn and share. 👥 <br> I embrace the process and find joy in every step of the journey. 📈 <br>
-  I also love challenging myself in various ways. 🌱 <br>
+  I also love challenging myself in various ways. 🌱 <br><br>
 
+
+### *Current activity*
+  I am developing a platform to bring an online version of the popular random number matching event from the university festival. This platform will conduct random matching on an event-by-event basis and continuously improve by incorporating real-time feedback. Based on positive market response, additional features such as payment functionality will be introduced in the first half of next year, with plans to launch it as a full-fledged service.
+  
 ### *Looking forward to learning many things from you!*
 
 
 ## 🚀 About Me
 
-- 🔭 The project I’m currently working on [TrueEchoProject](https://github.com/TrueEchoProject/TrueEcho_Main) 
+- 🔭 The project I’m currently working on [Now, here](www.now-here.site)
 - 🌱 I’m currently learning Java and Spring.
 - 👯 I’m looking to collaborate on innovative web and mobile app projects
 - 💬 Ask me about Java, Dart, and C
@@ -47,7 +51,7 @@
 ## 🌟 Recent 3 Projects
 
 1. [TrueEchoProject](https://github.com/TrueEchoProject/TrueEcho_Main) - A Social Networking that faciliatie to be a true-self using Java & Spring.
-2. [isHere-app-front](https://github.com/Kookutility/isHere-app-front) - A platform to find&found lost item using Dart & Flutter and Java & Spring.
+2. [Now, here](https://github.com/now-here-5/Now-Here) - A service that conducts random matching of people on an event-by-event basis using Java & Spring & OCI
 3. [book_store](https://github.com/HeeJohn/book_store) - A simple second-hand textbook trade project using Dart and Flutter.
 
 ## 🌐 Connect with Me
