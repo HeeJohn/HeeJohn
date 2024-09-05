@@ -1,5 +1,5 @@
 
-![Uploading github-header-image_noname.png…]()
+![github-header-image_noname](https://github.com/user-attachments/assets/20bf7386-524d-406b-a12a-a9d4a9e0ca2f)
 
 
   I'm a passionate software developer, always eager to learn and share. 👥 <br> I embrace the process and find joy in every step of the journey. 📈 <br>
