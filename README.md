@@ -6,7 +6,7 @@
   I also love challenging myself in various ways. 🌱 <br><br>
 
 
-### *Current activity*
+### *Current activity* : [Now, here](www.now-here.site)
   I am developing a platform to bring an online version of the popular random number matching event from the university festival. This platform will conduct random matching on an event-by-event basis and continuously improve by incorporating real-time feedback. Based on positive market response, additional features such as payment functionality will be introduced in the first half of next year, with plans to launch it as a full-fledged service.
   
 ### *Looking forward to learning many things from you!*
