@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 The project I’m currently working on [Now, here](www.now-here.site)
+- 🔭 The project I’m currently working on [Now, here](https://www.now-here.site)
 - 🌱 I’m currently learning Java and Spring.
 - 👯 I’m looking to collaborate on innovative web and mobile app projects
 - 💬 Ask me about Java, Dart, and C
