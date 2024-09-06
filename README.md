@@ -5,9 +5,11 @@
   I'm a passionate software developer, always eager to learn and share. 👥 <br> I embrace the process and find joy in every step of the journey. 📈 <br>
   I also love challenging myself in various ways. 🌱 <br><br>
 
-
 ### *Current activity* : [Now, here](https://www.now-here.site)
-  I am developing a platform to bring an online version of the popular random number matching event from the university festival. This platform will conduct random matching on an event-by-event basis and continuously improve by incorporating real-time feedback. Based on positive market response, additional features such as payment functionality will be introduced in the first half of next year, with plans to launch it as a full-fledged service.
+ My team is developing a platform to bring an online version of the popular random number matching event from the university festival. This platform will conduct random matching on an event-by-event basis and continuously improve by incorporating real-time feedback. Based on positive market response, additional features such as payment functionality will be introduced in the first half of next year, with plans to launch it as a full-fledged service.
+ My role in it 
+ 
+ My primary responsibility is overseeing the platform's technical infrastructure and ensuring the scalability of the application. I am leading the design and implementation of the cloud-based infrastructure and setting up the CI/CD pipeline to enable smooth, automated deployments. Additionally, I am collaborating closely with the front-end as the part of the back-end team to ensure seamless integration and performance optimization as we move towards the platform’s public release.
   
 ### *Looking forward to learning many things from you!*
 
