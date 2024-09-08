@@ -5,7 +5,7 @@
   I'm a passionate software developer, always eager to learn and share. 👥 <br> I embrace the process and find joy in every step of the journey. 📈 <br>
   I also love challenging myself in various ways. 🌱 <br><br>
 
-### *Current activity* : [Now, here](https://www.now-here.site)
+### *Current activity* : [Now, here](https://www.now-here.site/login/MTAyOTM4NDY)
  My team is developing a platform to bring an online version of the popular random number matching event from the university festival. This platform will conduct random matching on an event-by-event basis and continuously improve by incorporating real-time feedback. Based on positive market response, additional features such as payment functionality will be introduced in the first half of next year, with plans to launch it as a full-fledged service.
  My role in it 
  
