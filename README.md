@@ -3,7 +3,8 @@
 
 
   I'm a passionate software developer, always eager to learn and share. 👥 <br> I embrace the process and find joy in every step of the journey. 📈 <br>
-  I also love challenging myself in various ways. 🌱 <br><br>
+  I also love challenging myself in various ways. 🌱 <br>
+  <br>
 
 ### *Current activity* : [Now, here](https://www.now-here.site/login/MTAyOTM4NDY)
  My team is developing a platform to bring an online version of the popular random number matching event from the university festival. This platform will conduct random matching on an event-by-event basis and continuously improve by incorporating real-time feedback. Based on positive market response, additional features such as payment functionality will be introduced in the first half of next year, with plans to launch it as a full-fledged service.
@@ -22,6 +23,9 @@
 - 💬 Ask me about Java, Dart, and C
 - 📫 How to reach me: [gjshj366@gmail.com](mailto:gjshj366@gmail.com)
 - ⚡ Fun fact: I enjoy working out, watching movies, and having coffee chats.
+
+🙌 Anyone who can read Korean, these are my [assingments](https://drive.google.com/drive/u/0/folders/1vTDeq-xZRNCRsnbcQEI_JPnSF7AdNeLI) from University. <br> 
+They will show how I've approached and handled problems.
 
 ## 🛠️ Tech Stack
 
